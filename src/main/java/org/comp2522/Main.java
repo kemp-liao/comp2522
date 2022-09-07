@@ -1,7 +1,7 @@
 package org.comp2522;
 
 /**
- * Small program that print a message on screen.
+ * Small program that prints a message on screen.
  */
 public class Main {
   public static void main(String[] args) {

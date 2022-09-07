@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f850de-4325-443f-a2b4-0f7c42877133" name="Changes" comment="Create new project">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2f850de-4325-443f-a2b4-0f7c42877133" name="Changes" comment="Fixed checkstyle errors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/comp2522/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/comp2522/Main.java" afterDir="false" />
     </list>
@@ -67,7 +66,7 @@
       <updated>1662484838134</updated>
       <workItem from="1662484839360" duration="221000" />
       <workItem from="1662485078371" duration="3713000" />
-      <workItem from="1662509087962" duration="455000" />
+      <workItem from="1662509087962" duration="582000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project">
       <created>1662508342775</created>
@@ -76,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662508342775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add checkstyle">
+      <created>1662509577892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662509577892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed checkstyle errors">
+      <created>1662509595049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662509595049</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create new project" />
+    <MESSAGE value="Add checkstyle" />
+    <MESSAGE value="Fixed checkstyle errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed checkstyle errors" />
   </component>
 </project>
